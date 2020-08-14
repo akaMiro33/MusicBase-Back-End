@@ -1,0 +1,14 @@
+C:\Users\work\source\repos\BackEndNaPiskvorky\BackEndNaPiskvorky\bin\Debug\netcoreapp2.1\BackEndNaPiskvorky.deps.json
+C:\Users\work\source\repos\BackEndNaPiskvorky\BackEndNaPiskvorky\bin\Debug\netcoreapp2.1\BackEndNaPiskvorky.runtimeconfig.json
+C:\Users\work\source\repos\BackEndNaPiskvorky\BackEndNaPiskvorky\bin\Debug\netcoreapp2.1\BackEndNaPiskvorky.runtimeconfig.dev.json
+C:\Users\work\source\repos\BackEndNaPiskvorky\BackEndNaPiskvorky\bin\Debug\netcoreapp2.1\BackEndNaPiskvorky.dll
+C:\Users\work\source\repos\BackEndNaPiskvorky\BackEndNaPiskvorky\obj\Debug\netcoreapp2.1\BackEndNaPiskvorky.csproj.CoreCompileInputs.cache
+C:\Users\work\source\repos\BackEndNaPiskvorky\BackEndNaPiskvorky\obj\Debug\netcoreapp2.1\BackEndNaPiskvorky.RazorAssemblyInfo.cache
+C:\Users\work\source\repos\BackEndNaPiskvorky\BackEndNaPiskvorky\obj\Debug\netcoreapp2.1\BackEndNaPiskvorky.RazorAssemblyInfo.cs
+C:\Users\work\source\repos\BackEndNaPiskvorky\BackEndNaPiskvorky\obj\Debug\netcoreapp2.1\BackEndNaPiskvorky.AssemblyInfoInputs.cache
+C:\Users\work\source\repos\BackEndNaPiskvorky\BackEndNaPiskvorky\obj\Debug\netcoreapp2.1\BackEndNaPiskvorky.AssemblyInfo.cs
+C:\Users\work\source\repos\BackEndNaPiskvorky\BackEndNaPiskvorky\obj\Debug\netcoreapp2.1\BackEndNaPiskvorky.RazorTargetAssemblyInfo.cache
+C:\Users\work\source\repos\BackEndNaPiskvorky\BackEndNaPiskvorky\bin\Debug\netcoreapp2.1\BackEndNaPiskvorky.pdb
+C:\Users\work\source\repos\BackEndNaPiskvorky\BackEndNaPiskvorky\obj\Debug\netcoreapp2.1\BackEndNaPiskvorky.dll
+C:\Users\work\source\repos\BackEndNaPiskvorky\BackEndNaPiskvorky\obj\Debug\netcoreapp2.1\BackEndNaPiskvorky.pdb
+C:\Users\work\source\repos\BackEndNaPiskvorky\BackEndNaPiskvorky\obj\Debug\netcoreapp2.1\BackEndNaPiskvorky.csprojAssemblyReference.cache
